@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
+""" """
+
 def pascal_triangle(n):
+	""" """
 	triangle = []
 	if n <= 0: return triangle
 	prev_row = [1]
